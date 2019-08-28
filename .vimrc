@@ -1,5 +1,6 @@
 """""""""""""""""""""""""""""""""""""""""""""""
 " 基础配置
+" git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 """""""""""""""""""""""""""""""""""""""""""""""
 " tab缩进
 set tabstop=2
